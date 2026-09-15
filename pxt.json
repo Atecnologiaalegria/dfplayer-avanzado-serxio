@@ -1,0 +1,16 @@
+{
+    "name": "dfplayer-avanzado-serxio",
+    "version": "0.0.1",
+    "description": "Extension para DFPlayer Mini",
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "dependencies": {
+        "core": "*"
+    }
+}
